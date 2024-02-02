@@ -1,7 +1,51 @@
 {
-    "type": "urn:dx:as:Successs",
+    "type": "urn:dx:as:Success",
     "title": "Delegations",
     "results": [
+        {
+            "id": "99756420-99fb-4ef1-a369-6a85bc24f634",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "pasighatceo@gmail.com",
+                "name": {
+                    "firstName": "Manjuli",
+                    "lastName": "Komut"
+                },
+                "id": "8be5cd71-761c-4d6a-b20a-1f657cb3eec2"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
+            "url": "iudx-rs-onem2m.iiit.ac.in",
+            "role": "consumer",
+            "server": "IIIT-H Resource Server",
+            "owner": {
+                "email": "bryan.robert@datakaveri.org",
+                "name": {
+                    "firstName": "Bryan",
+                    "lastName": "Robert"
+                },
+                "id": "80fbdc1b-afaa-4885-8c7e-cf77f85899af"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
         {
             "id": "aa05e2be-4ddc-4b27-9934-b12c5f76f253",
             "url": "rs.cos.iudx.org.in",
@@ -520,6 +564,28 @@
                     "lastName": "Sharma"
                 },
                 "id": "564641f4-229f-4087-8508-6f332a02f820"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "6222598d-f953-4d9e-a0a8-206c1c275c9b",
+            "url": "rs.cos.iudx.org.in",
+            "role": "consumer",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "vasanth.rajaraman.in@gmail.com",
+                "name": {
+                    "firstName": "Vasanth ",
+                    "lastName": "Rajaraman"
+                },
+                "id": "2ea3abed-2b3d-4b25-9260-546785a01c82"
             },
             "user": {
                 "email": "iudx.delegate@datakaveri.org",
