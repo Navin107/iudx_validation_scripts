@@ -25,6 +25,28 @@
             }
         },
         {
+            "id": "d216d588-e0d2-479a-bccf-91336f70d47d",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "gm.it@jammusmartcity.in",
+                "name": {
+                    "firstName": "General",
+                    "lastName": "Manager (IT)"
+                },
+                "id": "8347ae5a-dce8-4d27-b864-3c6479d4c16a"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
             "url": "iudx-rs-onem2m.iiit.ac.in",
             "role": "consumer",
