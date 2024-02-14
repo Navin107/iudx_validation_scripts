@@ -3,7 +3,7 @@
     "title": "Delegations",
     "results": [
         {
-            "id": "c5f54a40-915d-4629-93bb-fa851aa72675",
+            "id": "99756420-99fb-4ef1-a369-6a85bc24f634",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -16,16 +16,16 @@
                 "id": "8be5cd71-761c-4d6a-b20a-1f657cb3eec2"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "fc698fbf-ce78-4f94-ba39-4abadd76262f",
+            "id": "d216d588-e0d2-479a-bccf-91336f70d47d",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -38,16 +38,16 @@
                 "id": "8347ae5a-dce8-4d27-b864-3c6479d4c16a"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "9caa3a69-daed-41e3-b5b2-fd8c81b1f5e4",
+            "id": "20ed6ee3-faf9-46cd-9174-0d98454d6b7c",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -60,16 +60,38 @@
                 "id": "ffb174b2-6e6e-4e53-a9c1-17056e8e4226"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "742da7af-1236-4c95-8152-78c749ed986f",
+            "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
+            "url": "iudx-rs-onem2m.iiit.ac.in",
+            "role": "consumer",
+            "server": "IIIT-H Resource Server",
+            "owner": {
+                "email": "bryan.robert@datakaveri.org",
+                "name": {
+                    "firstName": "Bryan",
+                    "lastName": "Robert"
+                },
+                "id": "80fbdc1b-afaa-4885-8c7e-cf77f85899af"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "aa05e2be-4ddc-4b27-9934-b12c5f76f253",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -82,16 +104,16 @@
                 "id": "a5a554f5-d9ee-403f-9201-66a9575979f5"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "a2dd7014-1265-47ff-9b50-893f3ee517c0",
+            "id": "4ea0bd5f-3e85-4e37-b35e-a8baddf23c1e",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -104,16 +126,16 @@
                 "id": "329f4412-7de7-449b-ba77-906362bca6f2"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "b950de57-0fbf-4512-b654-7b3dd91088aa",
+            "id": "75148701-7ff3-49d0-ac0c-b0c003b579c6",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -126,16 +148,16 @@
                 "id": "29d98c6f-d756-4542-98a9-b13fd6692898"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "a7675afe-d101-4cc7-b06f-cb76d985a2d9",
+            "id": "3fcb0ced-fc17-4f86-946d-f4c99f777de8",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -148,16 +170,16 @@
                 "id": "602e2803-2180-4441-b612-93aea9ccfd4a"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "afca9faa-7a44-4cbb-891f-880892e5c582",
+            "id": "0b7295bc-5682-4b1a-aa47-435aa9b125c7",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -170,16 +192,16 @@
                 "id": "f71dc59c-461c-457a-8b60-2ac75bf88da5"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "1e6000bb-312b-4109-ae0c-af13525c6d6a",
+            "id": "fe3e8ac4-d30a-4ddc-bd5a-2d587e7552af",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -192,16 +214,16 @@
                 "id": "9a565990-0389-4849-a973-e76638054679"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "aaa4d7ce-2e39-4157-9a31-6d3fdbfec209",
+            "id": "a1e91f18-fb52-42e4-9947-42329b92797c",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -214,16 +236,16 @@
                 "id": "94568f8e-68e7-462f-8f31-fd3ff74ce02f"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "17182d05-bdae-456a-80ff-f0b985b15350",
+            "id": "23433046-188f-4642-959b-8754966f4079",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -236,16 +258,16 @@
                 "id": "6c612732-b56b-4350-b2b5-d04d3ed528fc"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "8b5eeb1f-c8e7-430d-9a93-ea52bc509c4e",
+            "id": "86f08410-42a2-4a61-83c6-654c9b3b8324",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -258,16 +280,16 @@
                 "id": "f256f2dc-c626-4e72-9bf5-64011e184dc0"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "7d8c5a31-0ac7-4ffb-ac98-3383fd4da6e0",
+            "id": "fc283d03-9697-42af-834d-b7b4cae11bf2",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -280,16 +302,16 @@
                 "id": "433857ce-f7d7-480f-82ed-efc293ab5682"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "f70e3cf6-4256-49d5-8e54-8d233ce1d161",
+            "id": "f116aa3f-125a-4be9-bb10-8d39024e60bf",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -302,16 +324,16 @@
                 "id": "60fc1c64-6092-4bd7-a67e-ee58bb73a7e1"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "1793ffe1-74ab-4348-bc32-471dac1a5719",
+            "id": "b47c3f01-48fe-4776-94d7-8f3a827672c7",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -324,16 +346,16 @@
                 "id": "1c572828-4c42-4056-9c15-516e08a1c811"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "b5f2b951-a853-4c60-972f-99272673dc83",
+            "id": "1c5b100e-9859-411b-abc1-21d9716d536d",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -346,16 +368,16 @@
                 "id": "7e5ac7cf-3f45-4141-a83a-fb29bc47c943"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "d62736d5-69d3-485e-92d8-b613b2c12b8b",
+            "id": "472b321a-3cfc-4788-8895-57371c3ead43",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -368,16 +390,16 @@
                 "id": "00430d8a-5e26-4f07-82d5-1463817cb727"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "a9a5445d-3f45-45c9-b0df-45ec833354c9",
+            "id": "63c1b3d5-bf82-4e89-9a6b-400ec69454de",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -390,16 +412,16 @@
                 "id": "e4e3aca2-9d09-43f2-9132-344bab106581"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "873b6e66-6150-4cd2-99e1-ca0203258ee2",
+            "id": "20d2ac3e-098f-4690-b7e0-80889d04a3fb",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -412,16 +434,16 @@
                 "id": "3e60d612-e205-46a3-903a-5d9ec63b35e0"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "20743011-62c6-4487-a0bb-5d0d6894d866",
+            "id": "6ee63a7c-6198-4c71-91ca-9108c6b0db21",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -434,16 +456,16 @@
                 "id": "986ac772-7592-4d85-a950-a103a36f98fa"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "a3e235c6-4738-4f50-b693-efcce621c5c0",
+            "id": "30ad303f-0792-4af5-9b6e-524870c5efeb",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -456,16 +478,16 @@
                 "id": "4dbccc90-b14d-4a78-8f64-18fbfc9063ad"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "585fd8fc-cb1d-4deb-9a1b-f0c36fe1980e",
+            "id": "12261cbe-fc87-4e58-a540-a6b48e15a6c7",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -478,16 +500,16 @@
                 "id": "99ec821b-047a-4031-a5f0-eee53fa3cfe3"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "b984155f-419b-467d-9d10-f1b732297fa8",
+            "id": "5f2a8761-1e80-41b7-a5c8-8071614cb700",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -500,16 +522,16 @@
                 "id": "a773012b-bd8f-4919-9581-5d8526869e5b"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "f8c4e092-4fe4-4189-8347-ba7c2e45fa51",
+            "id": "3fbe2cb2-6dbb-447d-a487-b1161bd21049",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -522,16 +544,16 @@
                 "id": "c6a992c1-9d41-467a-a083-c471b514dde8"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "320b7931-7f93-4888-868e-a2e132113f4d",
+            "id": "423ce13e-a62e-4417-9028-8b46c733b988",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -544,16 +566,16 @@
                 "id": "5e50d7f7-a311-4266-9d04-8389095e6607"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "2ae78482-da98-485a-910b-a5955bb00fb5",
+            "id": "52399e4c-5f4d-4dd5-8934-9da027e818ac",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -566,16 +588,16 @@
                 "id": "d58369dc-946c-4d09-9f4b-7440aaa60c35"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "f270f327-1e49-4b07-82b3-0cafaecb786a",
+            "id": "ddee31b6-6142-4abf-9db7-1a502083216f",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -588,16 +610,38 @@
                 "id": "564641f4-229f-4087-8508-6f332a02f820"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "44b62e93-d6f2-44d4-9582-ab082e0fe64c",
+            "id": "6222598d-f953-4d9e-a0a8-206c1c275c9b",
+            "url": "rs.cos.iudx.org.in",
+            "role": "consumer",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "vasanth.rajaraman.in@gmail.com",
+                "name": {
+                    "firstName": "Vasanth ",
+                    "lastName": "Rajaraman"
+                },
+                "id": "2ea3abed-2b3d-4b25-9260-546785a01c82"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "3e0cfc67-ad48-4bd6-8f62-654b3f69ce06",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -610,16 +654,16 @@
                 "id": "fc5ec3d6-d215-4533-9315-4e42dbd05c17"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "a94f74af-e3f0-4a8b-9814-c4c515a6149e",
+            "id": "deb43411-a8f5-4a34-b98e-c1941d19a83e",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -632,16 +676,16 @@
                 "id": "c81dda37-44e9-477c-a774-884eb84f758f"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "634da29a-3ad9-4bd2-aa26-086a747f067b",
+            "id": "75fb7e32-4c22-4cbc-94ae-d24c8da2093b",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -654,16 +698,16 @@
                 "id": "012d19e2-eb0e-43c3-bd51-315e4674c55d"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "ac4113db-9ad5-467a-b888-ca4e1414d049",
+            "id": "c99f0844-3ec6-41b5-b288-8606f06fcda3",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -676,16 +720,16 @@
                 "id": "4d9b9e7e-6252-4b26-bf46-dde1fb0dd3d2"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "0e2aad17-c822-43a5-add3-76a4e278ea36",
+            "id": "7ee4efba-32d4-4c51-8a3f-1ba9b316bea7",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -698,16 +742,16 @@
                 "id": "c562c286-fced-41de-8b2c-9441b750396f"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "66b46bb6-f832-4676-a74e-3a49bb1cb8d4",
+            "id": "a8198822-02f1-4bd8-986f-0bee83144973",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -720,16 +764,16 @@
                 "id": "f196a400-1625-40e9-975f-8d0caf364920"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "d35dc329-2d79-4014-abdb-86ff9cf50e20",
+            "id": "aba808bd-00e5-41bb-8422-fe89c67bc898",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -742,16 +786,16 @@
                 "id": "024bb503-8dd9-4c60-9857-d7fcd7f8bbd2"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "81aa3127-5bd8-4770-ab78-f53dd4469666",
+            "id": "30e997f9-78d6-439c-8c18-45683ffe1463",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -764,16 +808,16 @@
                 "id": "7d4ad924-e56a-4f44-af5d-7e2a8fe2693a"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "28e39264-9c81-4755-8f19-6e4413142656",
+            "id": "7b407ed3-e25a-4e65-8ba7-40e13e3f5eba",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -786,16 +830,16 @@
                 "id": "d3e2855a-bfb5-4cb6-994d-7c91a2bb2e3a"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "43478a01-eedd-439a-a77e-b22d070d85ff",
+            "id": "6ba0b7da-e537-4b18-81c8-c67001ea7fd0",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -808,16 +852,16 @@
                 "id": "dd4b858f-f9e1-4c5a-ade7-57193e17d59d"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "294a89fd-22f6-4896-b80f-bde30a581917",
+            "id": "fc20539a-e489-474a-be8b-2b46e894769c",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -830,16 +874,16 @@
                 "id": "e18417be-fb09-4fe9-b8d1-e252da94699b"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "0f768751-a437-4e39-b8d9-653ff47560dc",
+            "id": "0670ee79-8946-433b-a6ac-f460ddfa2f84",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -852,16 +896,16 @@
                 "id": "b85c96ab-56f9-4a79-a08c-190e6b0a8573"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "93a7e6f2-589f-433e-ad9f-dda422a307ba",
+            "id": "479764e6-797b-4ab1-858e-83942a80eca6",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -874,16 +918,16 @@
                 "id": "944d88bc-e3e4-4af2-abbd-e54516c34096"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "ffdcea76-6885-4705-9add-e67896f12cd4",
+            "id": "0dff5b33-b872-4c75-8ff8-9df4b8f7dc54",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -896,16 +940,16 @@
                 "id": "ce3a29d6-6ea2-4122-90a8-699574f71eb6"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "e2642adc-4c30-40ab-8362-b907abdb08ff",
+            "id": "4f3e33e9-d245-428b-afa5-a6f6067d1ab1",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -918,16 +962,16 @@
                 "id": "a4ff83a3-2091-4b97-bcc3-38e5360869be"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "d1637634-5b97-41b8-bc43-b280c4607ad3",
+            "id": "7ec40ae7-5c02-466d-b08b-e00eb6412f5d",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -940,16 +984,16 @@
                 "id": "93b9a3fb-d05f-478b-b59c-beda3b81810d"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "363ca8fe-f62c-4082-b223-5ccefdbe9062",
+            "id": "d18db200-897e-4793-be26-7068d1732382",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -962,16 +1006,16 @@
                 "id": "d85898f4-e7ec-4cac-a264-952be2271c60"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "1a926590-c78b-4789-b3e3-4779dce47adb",
+            "id": "bd6cd51a-bd6f-4035-a929-8fa7781d9654",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -984,16 +1028,16 @@
                 "id": "bf16ff42-a636-4341-ac4c-201cb71c8953"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "d085d52d-1ce1-4e6f-a5ec-efb0faf53a33",
+            "id": "03b7fa3b-7cb9-42c5-843a-c60264b65c34",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -1006,16 +1050,16 @@
                 "id": "0dca88fb-03ef-44bc-b4b0-fb15d1ffae43"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "eb7e08b1-5a49-47bb-8bad-5146d1f2051f",
+            "id": "e9f5d75f-d50e-4e1f-8cf7-b6a114ef9f43",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -1026,18 +1070,18 @@
                     "lastName": " Jain"
                 },
                 "id": "d77abe8f-35d3-489c-977f-e03e03a272fb"
-            },
+            },F
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "44aa9c4d-8451-4715-b035-b3ace3f427d6",
+            "id": "2f379ed3-2cf3-4db5-82df-630db10e4a6e",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -1050,16 +1094,16 @@
                 "id": "fbc6a514-4bf9-4eb8-b99e-258472b05e56"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         },
         {
-            "id": "8fea3e2e-2b3c-4c9a-bb03-56bbbec8a83d",
+            "id": "fd6a4229-5447-4ab5-a642-9bf274f63168",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
@@ -1072,12 +1116,12 @@
                 "id": "ba950681-000f-477e-a166-c953304d1989"
             },
             "user": {
-                "email": "iudx.auth-delegate@datakaveri.org",
+                "email": "iudx.delegate@datakaveri.org",
                 "name": {
                     "firstName": "IUDX",
-                    "lastName": "AuthDelegate"
+                    "lastName": "Delegate"
                 },
-                "id": "6a13bc33-81e0-46d5-847c-f07b170de129"
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
         }
     ]
