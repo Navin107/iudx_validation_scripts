@@ -69,6 +69,28 @@
             }
         },
         {
+            "id": "043ce08f-0a3e-4694-84f5-497cf319cbfa",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "ranchismartcity@gmail.com",
+                "name": {
+                    "firstName": "Ranchi Smart",
+                    "lastName": "City"
+                },
+                "id": "5eeab92e-c3a0-400a-bcdc-8b4c46060e14"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
             "url": "iudx-rs-onem2m.iiit.ac.in",
             "role": "consumer",
