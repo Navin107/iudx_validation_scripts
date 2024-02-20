@@ -91,6 +91,28 @@
             }
         },
         {
+            "id": "5b58e08a-acd4-4a76-aba9-665fb28aa6f8",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "smartcityindore16@gmail.com",
+                "name": {
+                    "firstName": "JAY",
+                    "lastName": "DUBEY"
+                },
+                "id": "16c5a62c-ae2b-4cc9-85f0-691fc9cd1cbe"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
             "url": "iudx-rs-onem2m.iiit.ac.in",
             "role": "consumer",
