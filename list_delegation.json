@@ -91,6 +91,28 @@
             }
         },
         {
+            "id": "814117d4-8385-40ba-b8e6-0ed0e310f3a2",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "agmit-dscl@uk.gov.in",
+                "name": {
+                    "firstName": "AGM",
+                    "lastName": "IT"
+                },
+                "id": "eee2cbb7-d223-4342-8e9b-a41804c4252f"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "5b58e08a-acd4-4a76-aba9-665fb28aa6f8",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
