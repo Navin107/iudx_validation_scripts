@@ -1,0 +1,116 @@
+{
+    "type": "urn:dx:as:Success",
+    "title": "Delegations",
+    "results": [
+        {
+            "id": "b2785eb1-9250-4d88-a0ad-5b2c5a4b969f",
+            "url": "rs.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX RS",
+            "owner": {
+                "email": "provider@tsdps.telangana.gov.in",
+                "name": {
+                    "firstName": "Provider",
+                    "lastName": "TSDPS"
+                },
+                "id": "21aebe6e-e843-47b8-9018-d402c5acbbba"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
+        },
+        {
+            "id": "b9869436-eb46-46fa-9d94-dd01f73b3db1",
+            "url": "rs.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX RS",
+            "owner": {
+                "email": "provider@tsmarketing.in",
+                "name": {
+                    "firstName": "Provider",
+                    "lastName": "TSMarketing"
+                },
+                "id": "9ca1732c-232e-4686-b21e-a5a355c3e843"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
+        },
+        {
+            "id": "3d39a0d7-e757-4882-bcf3-4f43a3363fe9",
+            "url": "rs.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX RS",
+            "owner": {
+                "email": "shiva.in@niruthi.com",
+                "name": {
+                    "firstName": "I",
+                    "lastName": "Shiva Rama Krishna"
+                },
+                "id": "f738f38a-7fde-478b-9650-4187603dec45"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
+        },
+        {
+            "id": "5975f30b-2775-47b6-86e9-140dfa7c5998",
+            "url": "rs.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX RS",
+            "owner": {
+                "email": "meghdoot.agro@imd.gov.in",
+                "name": {
+                    "firstName": "Agromet Services ",
+                    "lastName": "IMD "
+                },
+                "id": "504f246c-4130-451f-b4df-ce41e245a754"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
+        },
+        {
+            "id": "a26e9ac4-384c-4001-88f5-54a2b7c3ee02",
+            "url": "rs.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX RS",
+            "owner": {
+                "email": "opendata@telangana.gov.in",
+                "name": {
+                    "firstName": "Venu",
+                    "lastName": "Panjarla"
+                },
+                "id": "6bdfa780-d8c0-4b2a-9a89-a1586d1d752f"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
+        }
+    ]
+}
