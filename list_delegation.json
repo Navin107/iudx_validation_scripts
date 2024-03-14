@@ -135,6 +135,50 @@
             }
         },
         {
+            "id": "68da95ea-bbc0-4e06-aa39-4db6efdd6197",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "smartcitydavanagere@gmail.com",
+                "name": {
+                    "firstName": "Davanagere",
+                    "lastName": "Smart City"
+                },
+                "id": "98cbc818-2c4c-410d-9be7-5606f89b4c03"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "3ce39c86-b2c7-4121-b60a-f7dffbdd3d50",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "mdksccl@gmail.com",
+                "name": {
+                    "firstName": "MD",
+                    "lastName": "CEO"
+                },
+                "id": "b1862877-6862-4d0a-8c02-54623a72002b"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
             "url": "iudx-rs-onem2m.iiit.ac.in",
             "role": "consumer",
