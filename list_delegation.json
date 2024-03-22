@@ -179,6 +179,72 @@
             }
         },
         {
+            "id": "da9d164d-2130-4152-a00b-68e07dd8776e",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "iudx@aurangabadsmartcity.in",
+                "name": {
+                    "firstName": "Sneha",
+                    "lastName": "Smart City"
+                },
+                "id": "8122fd29-09bc-4559-9951-c089def579fc"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "8dc9cb5e-9d1e-4578-9143-395ae121d0f7",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "smartcity-namchi-sik@nic.in",
+                "name": {
+                    "firstName": "CEO",
+                    "lastName": "NSCL"
+                },
+                "id": "6bccc7ae-aa4f-4621-9350-8a7b39df0eca"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "8422c7c1-19e9-454d-b0ea-38fc2cf54fec",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "gmit.bscl@gmail.com",
+                "name": {
+                    "firstName": "Srinivas",
+                    "lastName": "Y"
+                },
+                "id": "5ba0e1a5-b860-48e3-b401-744494a45b5a"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
             "url": "iudx-rs-onem2m.iiit.ac.in",
             "role": "consumer",
@@ -448,7 +514,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.agartala.iudx@datakaveri.org",
+                "email": "agartalasmartcityltd@gmail.com",
                 "name": {
                     "firstName": "Tanumoy",
                     "lastName": "Das"
@@ -470,7 +536,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.bengaluru.iudx@datakaveri.org",
+                "email": "md@bengalurusmartcity.in",
                 "name": {
                     "firstName": "IUDX",
                     "lastName": "Provider"
@@ -492,7 +558,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.iudx.dk@datakaveri.org",
+                "email": "projects@punesmartcity.in",
                 "name": {
                     "firstName": "Provider",
                     "lastName": "Datakaveri"
@@ -624,7 +690,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.kohima.iudx@datakaveri.org",
+                "email": "ceo.smartcity.nagaland@gmail.com",
                 "name": {
                     "firstName": "Niepukhrie",
                     "lastName": "Tepa"
@@ -646,7 +712,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.raipur.iudx@datakaveri.org",
+                "email": "coo.rscl@gmail.com",
                 "name": {
                     "firstName": "Chandrakant",
                     "lastName": "Verma"
@@ -712,7 +778,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.sagar.iudx@datakaveri.org",
+                "email": "smartcitysagarmp@gmail.com",
                 "name": {
                     "firstName": "Anil",
                     "lastName": "Sharma"
@@ -844,7 +910,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.bareilly.iudx@datakaveri.org",
+                "email": "bareillysmartcityltd@gmail.com",
                 "name": {
                     "firstName": "Kamal",
                     "lastName": "Sharma"
@@ -910,7 +976,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.nagpur.iudx@datakaveri.org",
+                "email": "egovernance.nsscdcl@gmail.com",
                 "name": {
                     "firstName": "Nagpur",
                     "lastName": "Provider"
@@ -1042,7 +1108,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.belagavi.iudx@datakaveri.org",
+                "email": "bscltd16@gmail.com",
                 "name": {
                     "firstName": "Vishweswar ",
                     "lastName": "Badaragade"
@@ -1064,7 +1130,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.shimla.iudx@datakaveri.org",
+                "email": "ssclshimla@gmail.com",
                 "name": {
                     "firstName": "Braham",
                     "lastName": "Prakash"
@@ -1086,7 +1152,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.dharamshala.iudx@datakaveri.org",
+                "email": "dscldharamshala@gmail.com",
                 "name": {
                     "firstName": "Baldev",
                     "lastName": "Kumar"
@@ -1174,7 +1240,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.lucknow.iudx@datakaveri.org",
+                "email": "lkosmartcity@gmail.com",
                 "name": {
                     "firstName": "Shrikant",
                     "lastName": " Jain"
@@ -1218,7 +1284,7 @@
             "role": "provider",
             "server": "IUDX RS",
             "owner": {
-                "email": "provider.prayagraj.iudx@datakaveri.org",
+                "email": "asclald@gmail.com",
                 "name": {
                     "firstName": "Santosh Kumar",
                     "lastName": "Singh"
