@@ -157,6 +157,28 @@
             }
         },
         {
+            "id": "914d973e-716b-4c03-bbf0-7902c0078370",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "itpro@gwaliorsmartcity.org",
+                "name": {
+                    "firstName": "veerendra",
+                    "lastName": "shakya"
+                },
+                "id": "8734d6ac-d339-4fc0-9286-9b6660ebe02e"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "3ce39c86-b2c7-4121-b60a-f7dffbdd3d50",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
