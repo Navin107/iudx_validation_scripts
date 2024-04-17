@@ -311,6 +311,28 @@
             }
         },
         {
+            "id": "09ef0310-7ec7-4b51-a714-c8dc354769a4",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "satnasmartcityltd@gmail.com",
+                "name": {
+                    "firstName": "Satna Smart",
+                    "lastName": "City"
+                },
+                "id": "caa0f21b-43b4-4ddd-ab17-92ef72ff061b"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
             "url": "iudx-rs-onem2m.iiit.ac.in",
             "role": "consumer",
