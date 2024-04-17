@@ -267,6 +267,50 @@
             }
         },
         {
+            "id": "5a01bda2-37f6-433d-8201-f36c49f7dc05",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "balendra.shukla@jscljabalpur.org",
+                "name": {
+                    "firstName": "Balendra",
+                    "lastName": "Shukla"
+                },
+                "id": "1ce20f7e-975d-4b84-9fc9-bac24304bf18"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "80cee169-68a7-47aa-98a3-e23182cbd2e5",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "owner": {
+                "email": "nkgsccl@gmail.com",
+                "name": {
+                    "firstName": "New",
+                    "lastName": "Town"
+                },
+                "id": "32cfd171-fb1b-4212-b7c1-bdff8a95e404"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
             "url": "iudx-rs-onem2m.iiit.ac.in",
             "role": "consumer",
