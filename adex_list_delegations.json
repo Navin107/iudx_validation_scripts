@@ -111,6 +111,50 @@
                 },
                 "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
             }
+        },
+        {
+            "id": "912ec3b2-bfce-46ff-a3f6-74a5bf628543",
+            "url": "rs.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX RS",
+            "owner": {
+                "email": "digitalgreenuser@gmail.com",
+                "name": {
+                    "firstName": "Jyothi",
+                    "lastName": "SSP"
+                },
+                "id": "5bddd541-7a10-4960-b048-007477cf9c5d"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
+        },
+        {
+            "id": "0c753493-9ebb-47c6-a70d-fb1f289fcc1e",
+            "url": "geoserver.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX Geoserver",
+            "owner": {
+                "email": "fairforward@giz.de",
+                "name": {
+                    "firstName": "Bhavika",
+                    "lastName": "Nanawati"
+                },
+                "id": "b88dac9d-7536-4b75-af03-1a1aec3b560b"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
         }
     ]
 }
