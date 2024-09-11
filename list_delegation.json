@@ -3,10 +3,57 @@
     "title": "Delegations",
     "results": [
         {
+            "id": "6222598d-f953-4d9e-a0a8-206c1c275c9b",
+            "url": "rs.cos.iudx.org.in",
+            "role": "consumer",
+            "server": "IUDX RS",
+            "createdAt": "2024-01-25T10:28:12.727871",
+            "owner": {
+                "email": "vasanth.rajaraman.in@gmail.com",
+                "name": {
+                    "firstName": "Vasanth ",
+                    "lastName": "Rajaraman"
+                },
+                "id": "2ea3abed-2b3d-4b25-9260-546785a01c82"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
+            "url": "iudx-rs-onem2m.iiit.ac.in",
+            "role": "consumer",
+            "server": "IIIT-H Resource Server",
+            "createdAt": "2024-01-29T09:23:49.087125",
+            "owner": {
+                "email": "bryan.robert@datakaveri.org",
+                "name": {
+                    "firstName": "Bryan",
+                    "lastName": "Robert"
+                },
+                "id": "80fbdc1b-afaa-4885-8c7e-cf77f85899af"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "99756420-99fb-4ef1-a369-6a85bc24f634",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-02-02T09:44:48.560468",
             "owner": {
                 "email": "pasighatceo@gmail.com",
                 "name": {
@@ -29,6 +76,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-02-06T10:57:50.231104",
             "owner": {
                 "email": "gm.it@jammusmartcity.in",
                 "name": {
@@ -51,6 +99,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-02-14T11:00:38.285163",
             "owner": {
                 "email": "acpplanningoffice@gmail.com",
                 "name": {
@@ -73,6 +122,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-02-15T10:57:24.978873",
             "owner": {
                 "email": "ranchismartcity@gmail.com",
                 "name": {
@@ -91,32 +141,11 @@
             }
         },
         {
-            "id": "814117d4-8385-40ba-b8e6-0ed0e310f3a2",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "agmit-dscl@uk.gov.in",
-                "name": {
-                    "firstName": "AGM",
-                    "lastName": "IT"
-                },
-                "id": "eee2cbb7-d223-4342-8e9b-a41804c4252f"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
             "id": "5b58e08a-acd4-4a76-aba9-665fb28aa6f8",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-02-20T10:02:54.355798",
             "owner": {
                 "email": "smartcityindore16@gmail.com",
                 "name": {
@@ -135,10 +164,34 @@
             }
         },
         {
+            "id": "814117d4-8385-40ba-b8e6-0ed0e310f3a2",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2024-02-20T11:20:07.165135",
+            "owner": {
+                "email": "agmit-dscl@uk.gov.in",
+                "name": {
+                    "firstName": "AGM",
+                    "lastName": "IT"
+                },
+                "id": "eee2cbb7-d223-4342-8e9b-a41804c4252f"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "68da95ea-bbc0-4e06-aa39-4db6efdd6197",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-03-07T05:39:36.356004",
             "owner": {
                 "email": "smartcitydavanagere@gmail.com",
                 "name": {
@@ -157,32 +210,11 @@
             }
         },
         {
-            "id": "914d973e-716b-4c03-bbf0-7902c0078370",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "itpro@gwaliorsmartcity.org",
-                "name": {
-                    "firstName": "veerendra",
-                    "lastName": "shakya"
-                },
-                "id": "8734d6ac-d339-4fc0-9286-9b6660ebe02e"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
             "id": "3ce39c86-b2c7-4121-b60a-f7dffbdd3d50",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-03-13T05:41:42.204544",
             "owner": {
                 "email": "mdksccl@gmail.com",
                 "name": {
@@ -201,10 +233,34 @@
             }
         },
         {
+            "id": "8422c7c1-19e9-454d-b0ea-38fc2cf54fec",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2024-03-15T11:32:08.131858",
+            "owner": {
+                "email": "gmit.bscl@gmail.com",
+                "name": {
+                    "firstName": "Srinivas",
+                    "lastName": "Y"
+                },
+                "id": "5ba0e1a5-b860-48e3-b401-744494a45b5a"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "da9d164d-2130-4152-a00b-68e07dd8776e",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-03-15T11:39:15.957735",
             "owner": {
                 "email": "iudx@aurangabadsmartcity.in",
                 "name": {
@@ -227,6 +283,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-03-21T09:31:01.012331",
             "owner": {
                 "email": "smartcity-namchi-sik@nic.in",
                 "name": {
@@ -245,17 +302,18 @@
             }
         },
         {
-            "id": "8422c7c1-19e9-454d-b0ea-38fc2cf54fec",
+            "id": "914d973e-716b-4c03-bbf0-7902c0078370",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-04-03T09:23:20.318215",
             "owner": {
-                "email": "gmit.bscl@gmail.com",
+                "email": "itpro@gwaliorsmartcity.org",
                 "name": {
-                    "firstName": "Srinivas",
-                    "lastName": "Y"
+                    "firstName": "veerendra",
+                    "lastName": "shakya"
                 },
-                "id": "5ba0e1a5-b860-48e3-b401-744494a45b5a"
+                "id": "8734d6ac-d339-4fc0-9286-9b6660ebe02e"
             },
             "user": {
                 "email": "iudx.delegate@datakaveri.org",
@@ -271,6 +329,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-04-16T07:46:49.653357",
             "owner": {
                 "email": "balendra.shukla@jscljabalpur.org",
                 "name": {
@@ -293,6 +352,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-04-16T11:31:40.390711",
             "owner": {
                 "email": "nkgsccl@gmail.com",
                 "name": {
@@ -315,6 +375,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2024-04-17T10:28:37.657904",
             "owner": {
                 "email": "satnasmartcityltd@gmail.com",
                 "name": {
@@ -333,120 +394,11 @@
             }
         },
         {
-            "id": "a5b39e55-0ceb-4894-bf9b-1e5d2bc980bf",
-            "url": "iudx-rs-onem2m.iiit.ac.in",
-            "role": "consumer",
-            "server": "IIIT-H Resource Server",
-            "owner": {
-                "email": "bryan.robert@datakaveri.org",
-                "name": {
-                    "firstName": "Bryan",
-                    "lastName": "Robert"
-                },
-                "id": "80fbdc1b-afaa-4885-8c7e-cf77f85899af"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "aa05e2be-4ddc-4b27-9934-b12c5f76f253",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "admin@smartbhopal.city",
-                "name": {
-                    "firstName": "Jitendra",
-                    "lastName": "Rathore"
-                },
-                "id": "a5a554f5-d9ee-403f-9201-66a9575979f5"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "4ea0bd5f-3e85-4e37-b35e-a8baddf23c1e",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "admin@yaana.bike",
-                "name": {
-                    "firstName": "Shivakumar",
-                    "lastName": "Angadi"
-                },
-                "id": "329f4412-7de7-449b-ba77-906362bca6f2"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "75148701-7ff3-49d0-ac0c-b0c003b579c6",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "cdo@cscl.co.in",
-                "name": {
-                    "firstName": "Senthilkumaran",
-                    "lastName": "Murugesan"
-                },
-                "id": "29d98c6f-d756-4542-98a9-b13fd6692898"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "3fcb0ced-fc17-4f86-946d-f4c99f777de8",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "dgmit@smartcityfaridabad.co.in",
-                "name": {
-                    "firstName": "Sishir",
-                    "lastName": "Saurabh"
-                },
-                "id": "602e2803-2180-4441-b612-93aea9ccfd4a"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
             "id": "0b7295bc-5682-4b1a-aa47-435aa9b125c7",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:28:43.000933",
             "owner": {
                 "email": "elcita@elcita.in",
                 "name": {
@@ -465,164 +417,11 @@
             }
         },
         {
-            "id": "fe3e8ac4-d30a-4ddc-bd5a-2d587e7552af",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "info@roadmetrics.in",
-                "name": {
-                    "firstName": "Dipen",
-                    "lastName": "Babariya"
-                },
-                "id": "9a565990-0389-4849-a973-e76638054679"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "a1e91f18-fb52-42e4-9947-42329b92797c",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "info@safetipin.com",
-                "name": {
-                    "firstName": "Avesh",
-                    "lastName": "Chauhan"
-                },
-                "id": "94568f8e-68e7-462f-8f31-fd3ff74ce02f"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "23433046-188f-4642-959b-8754966f4079",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "smartcity.chd@nic.in",
-                "name": {
-                    "firstName": "Anil Kumar",
-                    "lastName": "Garg"
-                },
-                "id": "6c612732-b56b-4350-b2b5-d04d3ed528fc"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "86f08410-42a2-4a61-83c6-654c9b3b8324",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "mdceo@gvsccl.in",
-                "name": {
-                    "firstName": "Dr. G Lakshmisha",
-                    "lastName": "."
-                },
-                "id": "f256f2dc-c626-4e72-9bf5-64011e184dc0"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "fc283d03-9697-42af-834d-b7b4cae11bf2",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "info@smartbikemobility.com",
-                "name": {
-                    "firstName": "Ranjith",
-                    "lastName": "Srivastava"
-                },
-                "id": "433857ce-f7d7-480f-82ed-efc293ab5682"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "f116aa3f-125a-4be9-bb10-8d39024e60bf",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "naveen@yulu.bike",
-                "name": {
-                    "firstName": "Naveen",
-                    "lastName": "Dachuri"
-                },
-                "id": "60fc1c64-6092-4bd7-a67e-ee58bb73a7e1"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
-            "id": "b47c3f01-48fe-4776-94d7-8f3a827672c7",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "agartalasmartcityltd@gmail.com",
-                "name": {
-                    "firstName": "Tanumoy",
-                    "lastName": "Das"
-                },
-                "id": "1c572828-4c42-4056-9c15-516e08a1c811"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
             "id": "1c5b100e-9859-411b-abc1-21d9716d536d",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:31:02.061531",
             "owner": {
                 "email": "md@bengalurusmartcity.in",
                 "name": {
@@ -641,17 +440,18 @@
             }
         },
         {
-            "id": "472b321a-3cfc-4788-8895-57371c3ead43",
+            "id": "fc283d03-9697-42af-834d-b7b4cae11bf2",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:32:23.542307",
             "owner": {
-                "email": "projects@punesmartcity.in",
+                "email": "info@smartbikemobility.com",
                 "name": {
-                    "firstName": "Provider",
-                    "lastName": "Datakaveri"
+                    "firstName": "Ranjith",
+                    "lastName": "Srivastava"
                 },
-                "id": "00430d8a-5e26-4f07-82d5-1463817cb727"
+                "id": "433857ce-f7d7-480f-82ed-efc293ab5682"
             },
             "user": {
                 "email": "iudx.delegate@datakaveri.org",
@@ -663,17 +463,133 @@
             }
         },
         {
-            "id": "63c1b3d5-bf82-4e89-9a6b-400ec69454de",
+            "id": "4ea0bd5f-3e85-4e37-b35e-a8baddf23c1e",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:33:30.877591",
             "owner": {
-                "email": "provider.surat.smc@suratmunicipal.org",
+                "email": "admin@yaana.bike",
                 "name": {
-                    "firstName": "Devang",
-                    "lastName": "Patel"
+                    "firstName": "Shivakumar",
+                    "lastName": "Angadi"
                 },
-                "id": "e4e3aca2-9d09-43f2-9132-344bab106581"
+                "id": "329f4412-7de7-449b-ba77-906362bca6f2"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "3fcb0ced-fc17-4f86-946d-f4c99f777de8",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:34:45.378997",
+            "owner": {
+                "email": "dgmit@smartcityfaridabad.co.in",
+                "name": {
+                    "firstName": "Sishir",
+                    "lastName": "Saurabh"
+                },
+                "id": "602e2803-2180-4441-b612-93aea9ccfd4a"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "fe3e8ac4-d30a-4ddc-bd5a-2d587e7552af",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:36:44.392232",
+            "owner": {
+                "email": "info@roadmetrics.in",
+                "name": {
+                    "firstName": "Dipen",
+                    "lastName": "Babariya"
+                },
+                "id": "9a565990-0389-4849-a973-e76638054679"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "75148701-7ff3-49d0-ac0c-b0c003b579c6",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:40:08.780313",
+            "owner": {
+                "email": "cdo@cscl.co.in",
+                "name": {
+                    "firstName": "Senthilkumaran",
+                    "lastName": "Murugesan"
+                },
+                "id": "29d98c6f-d756-4542-98a9-b13fd6692898"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "f116aa3f-125a-4be9-bb10-8d39024e60bf",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:41:22.134723",
+            "owner": {
+                "email": "naveen@yulu.bike",
+                "name": {
+                    "firstName": "Naveen",
+                    "lastName": "Dachuri"
+                },
+                "id": "60fc1c64-6092-4bd7-a67e-ee58bb73a7e1"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "aa05e2be-4ddc-4b27-9934-b12c5f76f253",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:45:23.807546",
+            "owner": {
+                "email": "admin@smartbhopal.city",
+                "name": {
+                    "firstName": "Jitendra",
+                    "lastName": "Rathore"
+                },
+                "id": "a5a554f5-d9ee-403f-9201-66a9575979f5"
             },
             "user": {
                 "email": "iudx.delegate@datakaveri.org",
@@ -689,6 +605,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:46:58.129358",
             "owner": {
                 "email": "provider.vadodara.vscdl@vmc.gov.in",
                 "name": {
@@ -707,10 +624,103 @@
             }
         },
         {
+            "id": "b47c3f01-48fe-4776-94d7-8f3a827672c7",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:49:17.216777",
+            "owner": {
+                "email": "agartalasmartcityltd@gmail.com",
+                "name": {
+                    "firstName": "Tanumoy",
+                    "lastName": "Das"
+                },
+                "id": "1c572828-4c42-4056-9c15-516e08a1c811"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "472b321a-3cfc-4788-8895-57371c3ead43",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:50:33.221227",
+            "owner": {
+                "email": "projects@punesmartcity.in",
+                "name": {
+                    "firstName": "Provider",
+                    "lastName": "Datakaveri"
+                },
+                "id": "00430d8a-5e26-4f07-82d5-1463817cb727"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "a1e91f18-fb52-42e4-9947-42329b92797c",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:51:18.696758",
+            "owner": {
+                "email": "info@safetipin.com",
+                "name": {
+                    "firstName": "Avesh",
+                    "lastName": "Chauhan"
+                },
+                "id": "94568f8e-68e7-462f-8f31-fd3ff74ce02f"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "63c1b3d5-bf82-4e89-9a6b-400ec69454de",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:53:00.410933",
+            "owner": {
+                "email": "provider.surat.smc@suratmunicipal.org",
+                "name": {
+                    "firstName": "Devang",
+                    "lastName": "Patel"
+                },
+                "id": "e4e3aca2-9d09-43f2-9132-344bab106581"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "6ee63a7c-6198-4c71-91ca-9108c6b0db21",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-10-14T09:54:16.449433",
             "owner": {
                 "email": "provider.varanasi.vscl@varanasismartcity.gov.in",
                 "name": {
@@ -729,10 +739,34 @@
             }
         },
         {
+            "id": "75fb7e32-4c22-4cbc-94ae-d24c8da2093b",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2022-07-12T15:26:24.170905",
+            "owner": {
+                "email": "commr.thoothukudi@tn.gov.in",
+                "name": {
+                    "firstName": "Thoothukudi",
+                    "lastName": "Smartcity"
+                },
+                "id": "012d19e2-eb0e-43c3-bd51-315e4674c55d"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "30ad303f-0792-4af5-9b6e-524870c5efeb",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-10-14T12:00:20.467019",
             "owner": {
                 "email": "to.smartcitybbsr@gov.in",
                 "name": {
@@ -755,6 +789,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-12-03T08:48:13.929099",
             "owner": {
                 "email": "ceo@agrasmartcity.in",
                 "name": {
@@ -777,6 +812,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2021-12-13T13:39:51.634107",
             "owner": {
                 "email": "ceo.smartcity.nagaland@gmail.com",
                 "name": {
@@ -799,6 +835,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-01-17T15:34:04.603271",
             "owner": {
                 "email": "coo.rscl@gmail.com",
                 "name": {
@@ -821,6 +858,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-02-17T05:44:45.470731",
             "owner": {
                 "email": "ceojscl-rj@gov.in",
                 "name": {
@@ -839,10 +877,34 @@
             }
         },
         {
+            "id": "23433046-188f-4642-959b-8754966f4079",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2022-02-25T12:02:03.348775",
+            "owner": {
+                "email": "smartcity.chd@nic.in",
+                "name": {
+                    "firstName": "Anil Kumar",
+                    "lastName": "Garg"
+                },
+                "id": "6c612732-b56b-4350-b2b5-d04d3ed528fc"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "52399e4c-5f4d-4dd5-8934-9da027e818ac",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-02-25T12:04:26.425286",
             "owner": {
                 "email": "cdo@kanpursmartcity.org",
                 "name": {
@@ -861,10 +923,34 @@
             }
         },
         {
+            "id": "86f08410-42a2-4a61-83c6-654c9b3b8324",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2022-03-07T08:10:58.716259",
+            "owner": {
+                "email": "mdceo@gvsccl.in",
+                "name": {
+                    "firstName": "Dr. G Lakshmisha",
+                    "lastName": "."
+                },
+                "id": "f256f2dc-c626-4e72-9bf5-64011e184dc0"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "ddee31b6-6142-4abf-9db7-1a502083216f",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-04-07T04:56:46.158076",
             "owner": {
                 "email": "smartcitysagarmp@gmail.com",
                 "name": {
@@ -883,32 +969,11 @@
             }
         },
         {
-            "id": "6222598d-f953-4d9e-a0a8-206c1c275c9b",
-            "url": "rs.cos.iudx.org.in",
-            "role": "consumer",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "vasanth.rajaraman.in@gmail.com",
-                "name": {
-                    "firstName": "Vasanth ",
-                    "lastName": "Rajaraman"
-                },
-                "id": "2ea3abed-2b3d-4b25-9260-546785a01c82"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
             "id": "3e0cfc67-ad48-4bd6-8f62-654b3f69ce06",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-06-21T10:13:11.474048",
             "owner": {
                 "email": "dpmknr.ksitm@kerala.gov.in",
                 "name": {
@@ -931,6 +996,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-07-06T16:46:52.016241",
             "owner": {
                 "email": "secknrcorp.lsgd@kerala.gov.in",
                 "name": {
@@ -949,32 +1015,11 @@
             }
         },
         {
-            "id": "75fb7e32-4c22-4cbc-94ae-d24c8da2093b",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "commr.thoothukudi@tn.gov.in",
-                "name": {
-                    "firstName": "Thoothukudi",
-                    "lastName": "Smartcity"
-                },
-                "id": "012d19e2-eb0e-43c3-bd51-315e4674c55d"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
             "id": "c99f0844-3ec6-41b5-b288-8606f06fcda3",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-08-29T10:28:07.850758",
             "owner": {
                 "email": "manager.it@smartcitytvm.in",
                 "name": {
@@ -997,6 +1042,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-08-30T05:44:18.272870",
             "owner": {
                 "email": "bareillysmartcityltd@gmail.com",
                 "name": {
@@ -1019,6 +1065,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-09-06T06:10:05.864780",
             "owner": {
                 "email": "office@smartcitytumakuru.in",
                 "name": {
@@ -1037,32 +1084,11 @@
             }
         },
         {
-            "id": "aba808bd-00e5-41bb-8422-fe89c67bc898",
-            "url": "rs.cos.iudx.org.in",
-            "role": "provider",
-            "server": "IUDX RS",
-            "owner": {
-                "email": "info@nellikka.in",
-                "name": {
-                    "firstName": "Nijin",
-                    "lastName": "Narayanan"
-                },
-                "id": "024bb503-8dd9-4c60-9857-d7fcd7f8bbd2"
-            },
-            "user": {
-                "email": "iudx.delegate@datakaveri.org",
-                "name": {
-                    "firstName": "IUDX",
-                    "lastName": "Delegate"
-                },
-                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
-            }
-        },
-        {
             "id": "30e997f9-78d6-439c-8c18-45683ffe1463",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-09-14T10:56:38.366713",
             "owner": {
                 "email": "egovernance.nsscdcl@gmail.com",
                 "name": {
@@ -1081,10 +1107,34 @@
             }
         },
         {
+            "id": "aba808bd-00e5-41bb-8422-fe89c67bc898",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2022-09-15T06:42:19.277573",
+            "owner": {
+                "email": "info@nellikka.in",
+                "name": {
+                    "firstName": "Nijin",
+                    "lastName": "Narayanan"
+                },
+                "id": "024bb503-8dd9-4c60-9857-d7fcd7f8bbd2"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
             "id": "7b407ed3-e25a-4e65-8ba7-40e13e3f5eba",
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-10-04T15:29:38.389984",
             "owner": {
                 "email": "info.smartcity@ahmedabadcity.gov.in",
                 "name": {
@@ -1107,6 +1157,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-10-28T06:38:24.654894",
             "owner": {
                 "email": "sscl@srinagarsmartcity.in",
                 "name": {
@@ -1129,6 +1180,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-11-23T16:48:04.411772",
             "owner": {
                 "email": "ithead@dahodsmartcity.in",
                 "name": {
@@ -1151,6 +1203,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-12-07T06:37:22.156733",
             "owner": {
                 "email": "smartcity@pcmcindia.gov.in",
                 "name": {
@@ -1173,6 +1226,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-12-12T06:07:38.258280",
             "owner": {
                 "email": "ap@ccmc.gov.in",
                 "name": {
@@ -1195,6 +1249,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-12-16T06:12:42.867460",
             "owner": {
                 "email": "bscltd16@gmail.com",
                 "name": {
@@ -1217,6 +1272,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-12-26T09:18:19.257030",
             "owner": {
                 "email": "ssclshimla@gmail.com",
                 "name": {
@@ -1239,6 +1295,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2022-12-26T09:20:11.270338",
             "owner": {
                 "email": "dscldharamshala@gmail.com",
                 "name": {
@@ -1261,6 +1318,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2023-01-02T11:28:34.337462",
             "owner": {
                 "email": "edpmng-gmc-gnr@gujarat.gov.in",
                 "name": {
@@ -1283,6 +1341,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2023-01-16T05:49:15.212378",
             "owner": {
                 "email": "smgohil@rmc.gov.in",
                 "name": {
@@ -1305,6 +1364,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2023-04-24T09:08:56.239238",
             "owner": {
                 "email": "smartkalyandevcorp@skdcl.in",
                 "name": {
@@ -1327,6 +1387,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2023-06-07T06:00:30.350711",
             "owner": {
                 "email": "lkosmartcity@gmail.com",
                 "name": {
@@ -1349,6 +1410,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2023-07-07T08:42:20.810327",
             "owner": {
                 "email": "ajay@mybyk.in",
                 "name": {
@@ -1371,6 +1433,7 @@
             "url": "rs.cos.iudx.org.in",
             "role": "provider",
             "server": "IUDX RS",
+            "createdAt": "2023-07-10T09:10:59.329752",
             "owner": {
                 "email": "asclald@gmail.com",
                 "name": {
@@ -1378,6 +1441,75 @@
                     "lastName": "Singh"
                 },
                 "id": "ba950681-000f-477e-a166-c953304d1989"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "1895781f-1a1a-4bbb-9b74-a328c804497c",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2024-07-31T12:53:10.373870",
+            "owner": {
+                "email": "demo.kalyan.provider@datakaveri.org",
+                "name": {
+                    "firstName": "Kalyan",
+                    "lastName": "Dombivli"
+                },
+                "id": "a87286dd-6937-4682-bf79-6fe59821ad40"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "db3b9e65-addd-4dd3-a374-98a0f7a51a8f",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2024-08-14T05:12:05.735024",
+            "owner": {
+                "email": "info@csml.co.in",
+                "name": {
+                    "firstName": "Cochin Smart Mission Limited",
+                    "lastName": "CSML"
+                },
+                "id": "cc761979-1854-4ada-8ed0-f9741bbe568f"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "d783418c-1319-4c3d-b811-68ed499ef73b",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2024-08-30T06:56:29.058981",
+            "owner": {
+                "email": "info@citybusindore.com",
+                "name": {
+                    "firstName": "ceo ",
+                    "lastName": "Aictsl"
+                },
+                "id": "0d27fb16-1466-48f3-9dcb-14bc37fc23ee"
             },
             "user": {
                 "email": "iudx.delegate@datakaveri.org",
