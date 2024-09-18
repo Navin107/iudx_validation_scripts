@@ -1,0 +1,167 @@
+{
+    "type": "urn:dx:as:Success",
+    "title": "Delegations",
+    "results": [
+        {
+            "id": "3175b1b0-a6a2-466e-b4f5-0fcd3b4065ff",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-04-16T10:45:53.223364",
+            "owner": {
+                "email": "shiva.in@niruthi.com",
+                "name": {
+                    "firstName": "Inagadapa",
+                    "lastName": "Shiva Rama Krishna"
+                },
+                "id": "dc92f377-63b3-4fd4-9381-97bfee81aa36"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "42bf764b-241f-49eb-96dc-ea1e3a3a9813",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-04-25T09:41:53.358281",
+            "owner": {
+                "email": "opendata.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Smart City ",
+                    "lastName": "Open Data"
+                },
+                "id": "d755f6dc-7d32-4b2d-857a-31c05f48447e"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "41b7a824-1e8b-4733-845a-c50bc9195cbc",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-08-29T08:57:34.762166",
+            "owner": {
+                "email": "uhi.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "UHI ",
+                    "lastName": "Data Provider"
+                },
+                "id": "7a62f608-9e7a-407c-b738-cfea3583f74f"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "b2a79050-ec81-466c-b922-ab4b7160006c",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-06-21T06:13:38.545427",
+            "owner": {
+                "email": "kandasamy@thazhal.in",
+                "name": {
+                    "firstName": "Vignesh ",
+                    "lastName": "Kandasamy"
+                },
+                "id": "c228d408-1b93-4014-ac65-3bfc21e76b7b"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "e58666f8-395c-410d-a458-37683cf7c508",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-09-03T10:04:16.191048",
+            "owner": {
+                "email": "rajarshidb@iisc.ac.in",
+                "name": {
+                    "firstName": "Rajarshi",
+                    "lastName": "Das Bhowmik"
+                },
+                "id": "e8348025-d5cb-430e-9ab4-746591723f77"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "374bf495-6f24-4cb6-9dd6-3cb8eb4f82a6",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-09-09T11:38:34.118218",
+            "owner": {
+                "email": "nwic.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "NWIC",
+                    "lastName": "Data Provider"
+                },
+                "id": "fb61d850-c03f-4d6d-ab9d-07259f4f848e"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "f935d68c-9fdc-4fe6-a649-8ad29150639b",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-09-11T06:50:27.409159",
+            "owner": {
+                "email": "sankar.nath@imd.gov.in",
+                "name": {
+                    "firstName": "DR SANKAR",
+                    "lastName": "NATH"
+                },
+                "id": "b08014bf-c383-4bd3-a4c1-2e058e56c57e"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        }
+    ]
+}
