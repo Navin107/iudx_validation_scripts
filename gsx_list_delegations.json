@@ -162,6 +162,29 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "d181b1bb-4bc2-45c6-b32d-1cacf444447e",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-09-23T05:33:35.606533",
+            "owner": {
+                "email": "gwmndc-cgwb@nic.in",
+                "name": {
+                    "firstName": "Dr. Gajanan",
+                    "lastName": "Ramteke"
+                },
+                "id": "03177756-5a38-416b-8047-e27894daae2b"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
