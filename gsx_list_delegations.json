@@ -3,6 +3,29 @@
     "title": "Delegations",
     "results": [
         {
+            "id": "16238988-26ec-49c5-b81f-8c3922341dfe",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-10-08T14:01:59.072903",
+            "owner": {
+                "email": "provider.soi@datakaveri.org",
+                "name": {
+                    "firstName": "Provider",
+                    "lastName": "SOI"
+                },
+                "id": "938d8b1f-e25c-4042-99de-f7349f7af6e7"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
             "id": "3175b1b0-a6a2-466e-b4f5-0fcd3b4065ff",
             "url": "geoserver.dx.ugix.org.in",
             "role": "provider",
@@ -107,6 +130,98 @@
                     "lastName": "Das Bhowmik"
                 },
                 "id": "e8348025-d5cb-430e-9ab4-746591723f77"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "19065f97-1f33-415a-a299-a15354181593",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-10-08T14:03:45.809536",
+            "owner": {
+                "email": "icar.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "ICAR ",
+                    "lastName": "Data Provider"
+                },
+                "id": "30e08e62-429c-4c9b-8c40-a7b84ffe124a"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "2e31600f-4434-4042-90a1-795d5d03e9e7",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-10-08T14:05:07.626220",
+            "owner": {
+                "email": "orgi.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "ORGI ",
+                    "lastName": "Data Provider"
+                },
+                "id": "184f6f90-cff3-4dab-9ec8-02d17b617dde"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "fdfa1095-4660-4eeb-8870-cb9ad45f2f02",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-10-08T13:56:55.339881",
+            "owner": {
+                "email": "nic_gsts.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "NICGSTS",
+                    "lastName": "Data Provider"
+                },
+                "id": "2e5adba0-2dd9-4d83-ad1f-5a866fed1c84"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "483eef86-5627-4588-97a9-09092106e315",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-10-08T14:06:26.970627",
+            "owner": {
+                "email": "gsi.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "GSI ",
+                    "lastName": "Data Provider"
+                },
+                "id": "271ff2ef-4d1b-475a-b5fb-8e7edad920c8"
             },
             "user": {
                 "email": "ugix.delegate@datakaveri.org",
