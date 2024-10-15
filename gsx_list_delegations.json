@@ -300,6 +300,29 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "3cbd3e4e-79d5-404c-94d3-95a8201508ee",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-10-15T08:33:06.980509",
+            "owner": {
+                "email": "fci.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "FCI Data",
+                    "lastName": "Provider"
+                },
+                "id": "d10d0e78-cc77-406a-afc7-116e927a905e"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
