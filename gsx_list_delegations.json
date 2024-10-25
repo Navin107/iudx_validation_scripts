@@ -346,6 +346,29 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "1ee161c5-1ea6-4565-be79-fd075383d5d3",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-10-25T12:51:50.884736",
+            "owner": {
+                "email": "bor_up.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Board Of Revenue, U.P.",
+                    "lastName": "Provider"
+                },
+                "id": "a550502d-77a8-49bb-8f9f-ff8da90cbf2f"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
