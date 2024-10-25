@@ -323,6 +323,29 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "a4ba0d89-17d0-43a5-a559-f11c4ee29e81",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-10-25T10:13:34.734886",
+            "owner": {
+                "email": "pmgatishakti.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "PM Gati Shakti BiSAG-N",
+                    "lastName": "Provider"
+                },
+                "id": "46489bf0-4a2d-4621-8be1-c913f9bc36e9"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
