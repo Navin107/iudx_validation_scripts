@@ -415,6 +415,52 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "939cacc9-083e-481a-a132-dad7aa87fa04",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-11-06T14:10:12.166813",
+            "owner": {
+                "email": "nrsc.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "NRSC",
+                    "lastName": "Provider"
+                },
+                "id": "e9b3b507-7b61-4bb2-bcb8-382e424b0c20"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "89d271a7-3f20-4700-af0f-d361951406da",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-11-11T06:32:52.024530",
+            "owner": {
+                "email": "rsac_up.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "UP RSAC",
+                    "lastName": "Data Provider"
+                },
+                "id": "db2c6a6f-23ac-434e-8f3f-3dda3f72a30d"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
