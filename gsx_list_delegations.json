@@ -461,6 +461,29 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "007291f5-388e-4039-809b-de5ec40c8406",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-11-11T11:47:06.471716",
+            "owner": {
+                "email": "prabhakara.chigateri@ideaforgetech.com",
+                "name": {
+                    "firstName": "ideaForge",
+                    "lastName": "Technologies Ltd"
+                },
+                "id": "b93e5bf3-d215-4f1d-a9ac-7a31fd61b8a2"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
