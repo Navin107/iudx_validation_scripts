@@ -507,6 +507,52 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "1e8ba4de-1137-44aa-ab99-339fb2690299",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-12-02T08:20:00.916770",
+            "owner": {
+                "email": "upag.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "UPAG",
+                    "lastName": "Provider"
+                },
+                "id": "ee6842d9-015f-48bb-93c7-1b798be1ef5f"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "0c1d8ad3-3ed7-4e10-ba24-8c3048b6fc1a",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-12-02T08:21:39.053616",
+            "owner": {
+                "email": "rsac_arunachal.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "RSAC",
+                    "lastName": "Provider"
+                },
+                "id": "a4868e42-cc89-47eb-812a-1dca9dc71747"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
