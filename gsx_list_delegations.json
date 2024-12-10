@@ -553,6 +553,29 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "7db494f5-a8bc-4497-abc1-4643afbcdc16",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-12-06T10:02:06.128572",
+            "owner": {
+                "email": "smartcity@pcmcindia.gov.in",
+                "name": {
+                    "firstName": "Pimpri Chinchwad",
+                    "lastName": "Smart City Limited"
+                },
+                "id": "a283e2be-64e7-440f-b6fc-89ee0fe9bcce"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
