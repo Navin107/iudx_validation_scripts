@@ -576,6 +576,29 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "202239f6-5a74-4bb1-9dc5-82738fa05ba8",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2024-12-20T10:23:59.025500",
+            "owner": {
+                "email": "mahaag.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Dept Of Agriculture",
+                    "lastName": "Maharashtra"
+                },
+                "id": "c82aeeff-359f-40ff-802e-7a574feca3e6"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
