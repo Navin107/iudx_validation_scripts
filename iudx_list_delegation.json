@@ -1519,6 +1519,29 @@
                 },
                 "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
+        },
+        {
+            "id": "b07f7ae5-e78a-4ab2-a7fa-100af369f985",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2024-12-24T06:11:48.241641",
+            "owner": {
+                "email": "pm-it@nashiksmartcity.in",
+                "name": {
+                    "firstName": "NASHIK",
+                    "lastName": "SMART CITY"
+                },
+                "id": "ae535af9-0b77-45b1-b1b8-caeeb3b5fd64"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
         }
     ]
 }
