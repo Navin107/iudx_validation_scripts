@@ -599,6 +599,75 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "f38535d1-a5c2-4be6-826b-8126923e3ca0",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2025-01-15T06:10:57.849167",
+            "owner": {
+                "email": "apsdma.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Andhra Pradesh",
+                    "lastName": "State Disaster Management Authority"
+                },
+                "id": "90ba50ff-e780-477e-81d2-f40f3ad37dfe"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "b02828a7-4184-4be8-b592-6f15b946c160",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2025-01-15T06:22:19.043833",
+            "owner": {
+                "email": "maha_landrecdept.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Maharashtra",
+                    "lastName": "Settlement Commission And Director of Land Records"
+                },
+                "id": "e11830ed-813a-4432-bd16-68e1e30a29b5"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "01cf913b-1acb-4897-a802-e5e930a72c4c",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2025-01-15T06:45:54.880044",
+            "owner": {
+                "email": "har_revenue_disaster.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Haryana",
+                    "lastName": "Revenue And Disaster Management Department"
+                },
+                "id": "1708add2-d980-4f5a-a7e3-fe06bed30705"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
