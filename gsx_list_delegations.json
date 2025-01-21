@@ -668,6 +668,29 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "84c6d956-c8d3-4701-8460-3a4c7ebdd348",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2025-01-21T06:30:21.512345",
+            "owner": {
+                "email": "maha_wrd.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Maharashtra",
+                    "lastName": "WRD"
+                },
+                "id": "89dbf6db-8f06-4c76-b932-a0f619e02271"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
