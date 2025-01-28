@@ -208,6 +208,75 @@
                 },
                 "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
             }
+        },
+        {
+            "id": "4b7b0278-7f2b-4f9e-bb99-bafdd9da18df",
+            "url": "rs.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX RS",
+            "createdAt": "2024-09-04T06:25:28.478800",
+            "owner": {
+                "email": "desagri.provider.adex@datakaveri.org",
+                "name": {
+                    "firstName": "Open Data",
+                    "lastName": "DES Agri"
+                },
+                "id": "9629ec69-652c-4ad6-83bd-d0d8969702c1"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
+        },
+        {
+            "id": "da4d4f68-4529-46b2-9cc9-84d3be4370a7",
+            "url": "rs.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX RS",
+            "createdAt": "2024-11-06T12:52:39.235357",
+            "owner": {
+                "email": "bhavika.nanawati@giz.de",
+                "name": {
+                    "firstName": "Bhavika",
+                    "lastName": "Nanawati"
+                },
+                "id": "b70e0f27-5011-441a-9c3d-36d666fe50ba"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
+        },
+        {
+            "id": "c18a44db-3afa-4023-a796-b9d6f95e2d70",
+            "url": "geoserver.ts.adex.org.in",
+            "role": "provider",
+            "server": "ADeX Geoserver",
+            "createdAt": "2024-12-27T06:44:12.396777",
+            "owner": {
+                "email": "dcas@nabard.org",
+                "name": {
+                    "firstName": "DCAS",
+                    "lastName": "NABARD"
+                },
+                "id": "6dfaf5f7-de34-4c45-99de-a2d0a24c9714"
+            },
+            "user": {
+                "email": "adex.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ADeX",
+                    "lastName": "Delegate"
+                },
+                "id": "4cfbfb22-f6c8-411a-ade3-384cfedfe87d"
+            }
         }
     ]
 }
