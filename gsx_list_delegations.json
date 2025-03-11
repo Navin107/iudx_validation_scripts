@@ -737,6 +737,75 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "3dccd6a6-cd7f-4598-a990-5899c97fa2c1",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2025-02-05T05:55:51.003961",
+            "owner": {
+                "email": "msme_dept_up.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Department of MSME and Export Promotion",
+                    "lastName": "Uttar Pradesh"
+                },
+                "id": "b197be7d-5d36-4d06-848e-6d7fb0a3099d"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "1d2895ff-71af-444a-8db0-2cabbfd78566",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2025-03-05T09:12:46.285063",
+            "owner": {
+                "email": "director.m3achq@gsi.gov.in",
+                "name": {
+                    "firstName": "Linashree",
+                    "lastName": "Dalabehera"
+                },
+                "id": "9b4f73a4-dbed-47ff-8e16-6792d904a50d"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "aab16f92-4426-4593-85bf-d2250a3d98ae",
+            "url": "geoserver.dx.ugix.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "createdAt": "2025-03-11T06:40:03.036640",
+            "owner": {
+                "email": "open_data_osm.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "OSM Open Data ",
+                    "lastName": "Provider"
+                },
+                "id": "9d9f96f3-51d8-4685-ba49-3b022df41987"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
