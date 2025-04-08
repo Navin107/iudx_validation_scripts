@@ -4,10 +4,9 @@
     "results": [
         {
             "id": "3175b1b0-a6a2-466e-b4f5-0fcd3b4065ff",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-04-16T10:45:53.223364",
             "owner": {
                 "email": "shiva.in@niruthi.com",
                 "name": {
@@ -27,10 +26,9 @@
         },
         {
             "id": "42bf764b-241f-49eb-96dc-ea1e3a3a9813",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-04-25T09:41:53.358281",
             "owner": {
                 "email": "opendata.provider.ugix@datakaveri.org",
                 "name": {
@@ -50,10 +48,9 @@
         },
         {
             "id": "b2a79050-ec81-466c-b922-ab4b7160006c",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-06-21T06:13:38.545427",
             "owner": {
                 "email": "kandasamy@thazhal.in",
                 "name": {
@@ -73,10 +70,9 @@
         },
         {
             "id": "41b7a824-1e8b-4733-845a-c50bc9195cbc",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-08-29T08:57:34.762166",
             "owner": {
                 "email": "uhi.provider.ugix@datakaveri.org",
                 "name": {
@@ -96,10 +92,9 @@
         },
         {
             "id": "e58666f8-395c-410d-a458-37683cf7c508",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-09-03T10:04:16.191048",
             "owner": {
                 "email": "rajarshidb@iisc.ac.in",
                 "name": {
@@ -119,10 +114,9 @@
         },
         {
             "id": "374bf495-6f24-4cb6-9dd6-3cb8eb4f82a6",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-09-09T11:38:34.118218",
             "owner": {
                 "email": "nwic.provider.ugix@datakaveri.org",
                 "name": {
@@ -142,10 +136,9 @@
         },
         {
             "id": "f935d68c-9fdc-4fe6-a649-8ad29150639b",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-09-11T06:50:27.409159",
             "owner": {
                 "email": "sankar.nath@imd.gov.in",
                 "name": {
@@ -165,10 +158,9 @@
         },
         {
             "id": "d181b1bb-4bc2-45c6-b32d-1cacf444447e",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-09-23T05:33:35.606533",
             "owner": {
                 "email": "gwmndc-cgwb@nic.in",
                 "name": {
@@ -188,10 +180,9 @@
         },
         {
             "id": "fdfa1095-4660-4eeb-8870-cb9ad45f2f02",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-10-08T13:56:55.339881",
             "owner": {
                 "email": "nic_gsts.provider.ugix@datakaveri.org",
                 "name": {
@@ -211,10 +202,9 @@
         },
         {
             "id": "16238988-26ec-49c5-b81f-8c3922341dfe",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-10-08T14:01:59.072903",
             "owner": {
                 "email": "provider.soi@datakaveri.org",
                 "name": {
@@ -234,10 +224,9 @@
         },
         {
             "id": "19065f97-1f33-415a-a299-a15354181593",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-10-08T14:03:45.809536",
             "owner": {
                 "email": "icar.provider.ugix@datakaveri.org",
                 "name": {
@@ -257,10 +246,9 @@
         },
         {
             "id": "2e31600f-4434-4042-90a1-795d5d03e9e7",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-10-08T14:05:07.626220",
             "owner": {
                 "email": "orgi.provider.ugix@datakaveri.org",
                 "name": {
@@ -280,10 +268,9 @@
         },
         {
             "id": "483eef86-5627-4588-97a9-09092106e315",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-10-08T14:06:26.970627",
             "owner": {
                 "email": "gsi.provider.ugix@datakaveri.org",
                 "name": {
@@ -303,10 +290,9 @@
         },
         {
             "id": "3cbd3e4e-79d5-404c-94d3-95a8201508ee",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-10-15T08:33:06.980509",
             "owner": {
                 "email": "fci.provider.ugix@datakaveri.org",
                 "name": {
@@ -326,10 +312,9 @@
         },
         {
             "id": "a4ba0d89-17d0-43a5-a559-f11c4ee29e81",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-10-25T10:13:34.734886",
             "owner": {
                 "email": "pmgatishakti.provider.ugix@datakaveri.org",
                 "name": {
@@ -349,10 +334,9 @@
         },
         {
             "id": "1ee161c5-1ea6-4565-be79-fd075383d5d3",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-10-25T12:51:50.884736",
             "owner": {
                 "email": "bor_up.provider.ugix@datakaveri.org",
                 "name": {
@@ -372,10 +356,9 @@
         },
         {
             "id": "35a54306-863d-449b-a194-3cedf4cdb7b4",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-11-04T06:40:05.460397",
             "owner": {
                 "email": "fsi.provider.ugix@datakaveri.org",
                 "name": {
@@ -395,10 +378,9 @@
         },
         {
             "id": "31809559-c28c-45a7-bf63-e07f2994e0c8",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-11-04T06:51:21.850969",
             "owner": {
                 "email": "irri.provider.ugix@datakaveri.org",
                 "name": {
@@ -418,10 +400,9 @@
         },
         {
             "id": "939cacc9-083e-481a-a132-dad7aa87fa04",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-11-06T14:10:12.166813",
             "owner": {
                 "email": "nrsc.provider.ugix@datakaveri.org",
                 "name": {
@@ -441,10 +422,9 @@
         },
         {
             "id": "89d271a7-3f20-4700-af0f-d361951406da",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-11-11T06:32:52.024530",
             "owner": {
                 "email": "rsac_up.provider.ugix@datakaveri.org",
                 "name": {
@@ -464,10 +444,9 @@
         },
         {
             "id": "007291f5-388e-4039-809b-de5ec40c8406",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-11-11T11:47:06.471716",
             "owner": {
                 "email": "prabhakara.chigateri@ideaforgetech.com",
                 "name": {
@@ -487,10 +466,9 @@
         },
         {
             "id": "c25ad912-146b-452f-a37f-a3c311a0610a",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-12-02T06:32:33.198028",
             "owner": {
                 "email": "ps.harsac.ggm@gmail.com",
                 "name": {
@@ -510,10 +488,9 @@
         },
         {
             "id": "1e8ba4de-1137-44aa-ab99-339fb2690299",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-12-02T08:20:00.916770",
             "owner": {
                 "email": "upag.provider.ugix@datakaveri.org",
                 "name": {
@@ -533,10 +510,9 @@
         },
         {
             "id": "0c1d8ad3-3ed7-4e10-ba24-8c3048b6fc1a",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-12-02T08:21:39.053616",
             "owner": {
                 "email": "rsac_arunachal.provider.ugix@datakaveri.org",
                 "name": {
@@ -556,10 +532,9 @@
         },
         {
             "id": "7db494f5-a8bc-4497-abc1-4643afbcdc16",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-12-06T10:02:06.128572",
             "owner": {
                 "email": "smartcity@pcmcindia.gov.in",
                 "name": {
@@ -579,10 +554,9 @@
         },
         {
             "id": "202239f6-5a74-4bb1-9dc5-82738fa05ba8",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2024-12-20T10:23:59.025500",
             "owner": {
                 "email": "mahaag.provider.ugix@datakaveri.org",
                 "name": {
@@ -602,10 +576,9 @@
         },
         {
             "id": "f38535d1-a5c2-4be6-826b-8126923e3ca0",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-01-15T06:10:57.849167",
             "owner": {
                 "email": "apsdma.provider.ugix@datakaveri.org",
                 "name": {
@@ -625,10 +598,9 @@
         },
         {
             "id": "b02828a7-4184-4be8-b592-6f15b946c160",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-01-15T06:22:19.043833",
             "owner": {
                 "email": "maha_landrecdept.provider.ugix@datakaveri.org",
                 "name": {
@@ -648,10 +620,9 @@
         },
         {
             "id": "01cf913b-1acb-4897-a802-e5e930a72c4c",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-01-15T06:45:54.880044",
             "owner": {
                 "email": "har_revenue_disaster.provider.ugix@datakaveri.org",
                 "name": {
@@ -671,10 +642,9 @@
         },
         {
             "id": "84c6d956-c8d3-4701-8460-3a4c7ebdd348",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-01-21T06:30:21.512345",
             "owner": {
                 "email": "maha_wrd.provider.ugix@datakaveri.org",
                 "name": {
@@ -694,10 +664,9 @@
         },
         {
             "id": "4002f1a3-69da-413a-b8f4-7a4f47dc8d82",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-01-31T05:11:54.675893",
             "owner": {
                 "email": "monis.khan@nic.in",
                 "name": {
@@ -717,10 +686,9 @@
         },
         {
             "id": "c9b1ccb3-6e29-41e2-baaa-0d106cc545a1",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "consumer",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-01-31T05:12:14.783782",
             "owner": {
                 "email": "aditya.parwal@iudx.org.in",
                 "name": {
@@ -740,10 +708,9 @@
         },
         {
             "id": "3dccd6a6-cd7f-4598-a990-5899c97fa2c1",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-02-05T05:55:51.003961",
             "owner": {
                 "email": "msme_dept_up.provider.ugix@datakaveri.org",
                 "name": {
@@ -763,10 +730,9 @@
         },
         {
             "id": "1d2895ff-71af-444a-8db0-2cabbfd78566",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-03-05T09:12:46.285063",
             "owner": {
                 "email": "director.m3achq@gsi.gov.in",
                 "name": {
@@ -786,10 +752,9 @@
         },
         {
             "id": "aab16f92-4426-4593-85bf-d2250a3d98ae",
-            "url": "geoserver.dx.ugix.org.in",
+            "url": "geoserver.dx.geospatial.org.in",
             "role": "provider",
             "server": "UGIX Geoserver",
-            "createdAt": "2025-03-11T06:40:03.036640",
             "owner": {
                 "email": "open_data_osm.provider.ugix@datakaveri.org",
                 "name": {
@@ -797,6 +762,28 @@
                     "lastName": "Provider"
                 },
                 "id": "9d9f96f3-51d8-4685-ba49-3b022df41987"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "dc53212c-a39d-4a12-b12d-cd0e3266c8c5",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "agristack-data@supportgov.in",
+                "name": {
+                    "firstName": "Chandan",
+                    "lastName": "Kumar"
+                },
+                "id": "8be25945-25ed-47e5-ad3b-4c2702897b1f"
             },
             "user": {
                 "email": "ugix.delegate@datakaveri.org",
