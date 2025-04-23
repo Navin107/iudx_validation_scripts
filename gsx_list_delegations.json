@@ -793,6 +793,28 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "597d6212-2630-470c-a881-9edf512ae1cd",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "ramiya@iist.ac.in",
+                "name": {
+                    "firstName": "Anandakumar M",
+                    "lastName": "Ramiya"
+                },
+                "id": "8b46c3f3-89f0-445e-bc6b-0635d1fb1c87"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
