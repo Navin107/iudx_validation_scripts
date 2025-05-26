@@ -815,6 +815,28 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "f00063b8-66d7-4241-a82b-12f220ee556a",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "ranu.neoperk@gmail.com",
+                "name": {
+                    "firstName": "Ranu",
+                    "lastName": "Drolia"
+                },
+                "id": "6eebdd76-4d55-4405-9748-5f2b6b86043c"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
