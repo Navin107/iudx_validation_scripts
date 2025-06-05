@@ -1542,6 +1542,75 @@
                 },
                 "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
             }
+        },
+        {
+            "id": "7b8d50ae-9c0b-47d6-9f2b-d87d83a8aef8",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2025-02-19T10:30:54.647823",
+            "owner": {
+                "email": "contact@pkc.org.in",
+                "name": {
+                    "firstName": "Pune",
+                    "lastName": "Knowledge Cluster"
+                },
+                "id": "d072aebd-cb43-4307-8ac3-00b51c0c1413"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "c04cd477-ea90-42b0-8a1d-695451e4407c",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2025-03-05T09:47:58.756439",
+            "owner": {
+                "email": "kemp.kmscl@kerala.gov.in",
+                "name": {
+                    "firstName": "Rajeev",
+                    "lastName": "sekhar"
+                },
+                "id": "684881f8-6dc8-4c79-9beb-a19f105414a4"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
+        },
+        {
+            "id": "9b6cfcd7-037f-4ef6-bca2-a0b0155c30ac",
+            "url": "rs.cos.iudx.org.in",
+            "role": "provider",
+            "server": "IUDX RS",
+            "createdAt": "2025-06-04T09:06:13.113789",
+            "owner": {
+                "email": "csm@mybmtc.com",
+                "name": {
+                    "firstName": "BMTC",
+                    "lastName": "SYSTEM DEPARTMENT"
+                },
+                "id": "b055c47f-59c3-4fee-be0d-88a30225894a"
+            },
+            "user": {
+                "email": "iudx.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "IUDX",
+                    "lastName": "Delegate"
+                },
+                "id": "1b58d13e-20eb-44da-a277-6ca38175f580"
+            }
         }
     ]
 }
