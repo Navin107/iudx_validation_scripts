@@ -837,6 +837,28 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "d2c03e29-a57b-4fed-8392-46e595f9ba92",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "ap_vzm_districtadmin.provider.ugix@datakveri.org",
+                "name": {
+                    "firstName": "Vizianagaram",
+                    "lastName": "District Administration"
+                },
+                "id": "e81ccfef-c440-46d5-9895-a922a4d0f75e"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
