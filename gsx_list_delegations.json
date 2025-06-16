@@ -859,6 +859,72 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "c0767aff-79d1-43c4-a2ae-ebb682af673b",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "maha_washim_districtadmin.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Washim",
+                    "lastName": "District Administration"
+                },
+                "id": "d37523e9-c348-4ac5-a1c0-937d167f0dd2"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "bd12b3e2-c3d0-4296-bc60-9594e111e1dd",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "contact@townplanmap.com",
+                "name": {
+                    "firstName": "Arjav",
+                    "lastName": "Parikh"
+                },
+                "id": "afdfe233-58d0-4c2c-86cd-8304f0a373e7"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "e5b2dbe9-dbe2-4f3d-b533-a9982337718d",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "gislab.assamsurvey@gmail.com",
+                "name": {
+                    "firstName": "Monisha",
+                    "lastName": "Das"
+                },
+                "id": "48919994-d5b0-4a7f-99dd-c26b88cc7fbf"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
