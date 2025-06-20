@@ -925,6 +925,72 @@
                 },
                 "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
             }
+        },
+        {
+            "id": "7acb8961-7f12-4a22-a7f0-a19c12cdd7c4",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "partner@skyserve.ai",
+                "name": {
+                    "firstName": "GeoRisk ",
+                    "lastName": "GeoRisk "
+                },
+                "id": "5b377838-9994-4396-8794-c0b2ef165db0"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "765ec0c1-30cb-4ead-bdb4-bc057ab653d6",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "opendata_fao.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "FAO",
+                    "lastName": "United Nations"
+                },
+                "id": "25ba67f8-03a2-435c-8f85-18b78f463115"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
+        },
+        {
+            "id": "a2d01ee1-827e-4ced-bbe1-6da80175cea2",
+            "url": "geoserver.dx.geospatial.org.in",
+            "role": "provider",
+            "server": "UGIX Geoserver",
+            "owner": {
+                "email": "opendata_naturalearth.provider.ugix@datakaveri.org",
+                "name": {
+                    "firstName": "Natural",
+                    "lastName": "Earth"
+                },
+                "id": "10667f44-7ed6-4142-9d95-617a6ae38f1a"
+            },
+            "user": {
+                "email": "ugix.delegate@datakaveri.org",
+                "name": {
+                    "firstName": "ugix",
+                    "lastName": "delegate"
+                },
+                "id": "346c9298-ae22-404e-882e-a9d659fe0ef4"
+            }
         }
     ]
 }
